@@ -13,10 +13,10 @@ As a Master Craftsman, I’ve always been passionate about building complex syst
 Transitioning into Software Development allows me to combine my analytical mindset with modern technology to create digital solutions.
 
 ### 💻 Tech Stack (Learning)
-*   **Frontend:** HTML5, CSS3, JavaScript
-*   **Backend:** [Hier z.B. Node.js oder Python ergänzen, falls im Kurs]
+*   **Frontend:** HTML, CSS, JavaScript
+*   **Backend:** Python
 *   **Tools:** Git, GitHub, VS Code
 
 ### 📬 Connect with me
-*   LinkedIn: [Dein Link]
-*   Email: [Deine Email]
+*   LinkedIn: [www.linkedin.com/in/dejan-vujic]
+*   Email: [dejan.vujic.debugger@gmail.com]
