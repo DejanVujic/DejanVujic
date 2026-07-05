@@ -1,6 +1,6 @@
 ### Hi there 👋, Dejan Vujic
 #### Design and Development 
-![Design and Development ](https://dejanvujic.developerakademie.net/Visitenkarten/Version%204/)
+https://dejanvujic.developerakademie.net/Visitenkarten/Version%204/
 
 I am a career changer currently training to become a Fullstack Software Developer at the Developer Akademie. With a strong background in precision engineering, I am now applying my problem-solving skills to the world of code.
 
