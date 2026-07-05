@@ -20,3 +20,5 @@ Transitioning into Software Development allows me to combine my analytical minds
 ### 📬 Connect with me
 *   LinkedIn: [www.linkedin.com/in/dejan-vujic]
 *   Email: [dejan.vujic.debugger@gmail.com]
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=DejanVujic)](https://github.com/stats-organization/github-stats-extended)
