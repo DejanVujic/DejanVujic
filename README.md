@@ -1,6 +1,6 @@
 ### Hi there 👋, Dejan Vujic
 #### Design and Development 
-https://dejanvujic.developerakademie.net/Visitenkarten/Version%204/
+
 
 I am a career changer currently training to become a Fullstack Software Developer at the Developer Akademie. With a strong background in precision engineering, I am now applying my problem-solving skills to the world of code.
 
@@ -22,3 +22,6 @@ Tools: Git, GitHub, VS Code
 
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=DejanVujic)](https://github.com/stats-organization/github-stats-extended)
+
+
+https://dejanvujic.developerakademie.net/Visitenkarten/Version%204/
