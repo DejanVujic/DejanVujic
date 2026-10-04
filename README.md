@@ -1,4 +1,4 @@
-### Hi there 👋, Dejan Vujic
+### Hi there 👋, I'm Dejan Vujic
 #### Design and Development 
 
 
@@ -7,7 +7,7 @@ I am a career changer currently training to become a Fullstack Software Develope
 🛠️ Background & Professional Journey
 Current: Trainee Fullstack Software Developer at Developer Akademie.
 Experience: Industrial Mechanic for Devices and Precision Engineering.
-Qualification: Certified Master Craftsman (Handwerksmeister) including Instructor Aptitude Certification (AdA - Ausbildereignungsprüfung).
+Qualification: Certified Master Craftsman (Handwerksmeister) including Instructor Aptitude Certification (Ad-A - Ausbildereignungsprüfung).
 
 🚀 Why Software Development?
 As a Master Craftsman, I’ve always been passionate about building complex systems and ensuring everything runs with precision. Transitioning into Software Development allows me to combine my analytical mindset with modern technology to create digital solutions.
