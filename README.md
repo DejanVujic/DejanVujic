@@ -41,12 +41,6 @@ These are the technologies I'm currently learning and using during my training.
 
 ## ⚙️ From workshop to workspace
 
-<img
-  src="./craft-meets-code.svg"
-  alt="Animierte Zahnräder verbinden Handwerk und Softwareentwicklung"
-  width="100%"
-/>
-
 | What I bring | How I apply it |
 | :--- | :--- |
 | 🔎 Attention to detail | Implementing features with care |
