@@ -60,6 +60,22 @@ A personal introduction on the web — and a place to follow my journey.
 
 [![Visit my business card](https://img.shields.io/badge/Open_Digital_Business_Card_%E2%86%97-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=0d1117)](https://dejanvujic.developerakademie.net/Visitenkarten/Version%204/)
 
+
+### 🐍 GitHub Activity Graph
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/DejanVujic/README.md/output/github-snake-dark.svg"
+  />
+  <img
+    alt="Meine GitHub-Beiträge als animierte Schlange"
+    src="https://raw.githubusercontent.com/DejanVujic/README.md/output/github-snake.svg"
+    width="100%"
+  />
+</picture>
+
+
 ## 📊 My GitHub workbench
 
 <div align="center">
