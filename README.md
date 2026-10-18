@@ -54,6 +54,27 @@ These are the technologies I'm currently learning and using during my training.
 | 🔧 Diagnosing mechanical faults | Debugging step by step |
 | 🎓 Master craftsman and instructor training | A foundation for sharing knowledge |
 
+## 🚀 Featured Project
+
+### ⚙️ Precision Lab
+
+An interactive tolerance checker connecting my background
+in precision engineering with my journey into web development.
+
+- Calculate minimum and maximum dimensions.
+- Check measured values against tolerance limits.
+- Explore results on a visual scale.
+- Try examples, including boundary cases.
+
+**Technologies:** HTML · CSS · JavaScript
+
+Created with AI assistance as a learning project.
+I'm studying the code and building on it through my own improvements.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=0d1117)](https://dejanvujic.github.io/precision-lab/)
+[![Source Code](https://img.shields.io/badge/Source_Code-123b53?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DejanVujic/precision-lab)
+
+
 ## 🚀 Currently on my workbench
 
 - **Learning fullstack development** at Developer Akademie.
