@@ -43,7 +43,7 @@ These are the technologies I'm currently learning and using during my training.
 
 <img
   src="./craft-meets-code.svg"
-  alt="Animierte Zahnräder verbinden Handwerk und Softwareentwicklung"
+  alt="Animierte Zahnräder — Craft meets code"
   width="100%"
 />
 
