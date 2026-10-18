@@ -42,7 +42,7 @@ These are the technologies I'm currently learning and using during my training.
 ## ⚙️ From workshop to workspace
 
 <img
-  src="./craft-meets-code.svg"
+  src="https://raw.githubusercontent.com/DejanVujic/DejanVujic/main/craft-meets-code.svg"
   alt="Animierte Zahnräder — Craft meets code"
   width="100%"
 />
