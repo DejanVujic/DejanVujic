@@ -1,1 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="840" height="240" viewBox="0 0 840 240">
+  <title>Dejan Vujic — Craft meets code</title>
 
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#123b53"/>
+    </linearGradient>
+
+    <g id="gear">
+      <path
+        d="M-10-53H10L13-42 22-38 33-42 47-28
+           41-18 44-8 55-4V16L43 19 38 28 41 39
+           26 51 17 44 7 46 2 57H-18L-20 45
+           -30 40-41 43-53 28-46 18-48 8-59 3
+           V-17L-47-20-42-30-45-41-30-53
+           -20-46-12-45Z"
+        fill="currentColor"/>
+      <circle r="29" fill="#0d1822"/>
+      <circle r="13" fill="none"
+              stroke="currentColor" stroke-width="3"/>
+    </g>
+  </defs>
+
+  <rect x="1" y="1" width="838" height="238"
+        rx="22" fill="url(#background)" stroke="#234454"/>
+
+  <g transform="translate(110 95)">
+    <g color="#38bdf8">
+      <use href="#gear"/>
+      <animateTransform
+        attributeName="transform" type="rotate"
+        from="0" to="360" dur="18s"
+        repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <g transform="translate(196 153)">
+    <g color="#22d3ee">
+      <use href="#gear"/>
+      <animateTransform
+        attributeName="transform" type="rotate"
+        from="18" to="-342" dur="18s"
+        repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <path d="M280 120H390"
+        stroke="#22d3ee" stroke-width="2"
+        stroke-dasharray="5 9">
+    <animate attributeName="stroke-dashoffset"
+             from="28" to="0" dur="1.5s"
+             repeatCount="indefinite"/>
+  </path>
+
+  <rect x="425" y="55" width="130" height="130"
+        rx="24" fill="#0d1822" stroke="#22d3ee"/>
+
+  <g fill="none" stroke="#22d3ee" stroke-width="6"
+     stroke-linecap="round" stroke-linejoin="round">
+    <path d="M465 102L447 120 465 138
+             M515 102L533 120 515 138
+             M501 95L480 145"/>
+    <animate attributeName="opacity"
+             values="1;0.4;1" dur="3s"
+             repeatCount="indefinite"/>
+  </g>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="590" y="110" fill="#e6edf3"
+          font-size="23" font-weight="600">
+      Built with care.
+    </text>
+    <text x="590" y="142" fill="#9cb8c8" font-size="17">
+      Craft meets code.
+    </text>
+    <text x="420" y="220" text-anchor="middle"
+          fill="#9cb8c8" font-size="12" letter-spacing="2">
+      DEJAN VUJIC · FROM WORKSHOP TO WORKSPACE
+    </text>
+  </g>
+</svg>
