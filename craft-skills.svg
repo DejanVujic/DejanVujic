@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1000" height="330" viewBox="0 0 1000 330">
+  <title>From craftsmanship to software development</title>
+  <desc>
+    Attention to detail: implementing features with care.
+    Understanding complex systems: connecting frontend and backend.
+    Diagnosing mechanical faults: debugging step by step.
+    Master craftsman and instructor training: sharing knowledge.
+  </desc>
+
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#193c52"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="998" height="328"
+        rx="24" fill="url(#bg)" stroke="#315365"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="38" y="42" fill="#63d8eb"
+          font-size="12" letter-spacing="2">
+      FROM WORKSHOP TO WORKSPACE
+    </text>
+
+    <text x="65" y="83" fill="#f0f6fc"
+          font-size="19" font-weight="600">
+      What I bring
+    </text>
+    <text x="540" y="83" fill="#f0f6fc"
+          font-size="19" font-weight="600">
+      How I apply it
+    </text>
+
+    <g stroke="#315365">
+      <path d="M38 102H962"/>
+      <path d="M38 156H962"/>
+      <path d="M38 210H962"/>
+      <path d="M38 264H962"/>
+      <path d="M510 66V298"/>
+    </g>
+
+    <g fill="#42cfe5">
+      <circle cx="43" cy="130" r="5"/>
+      <circle cx="43" cy="184" r="5"/>
+      <circle cx="43" cy="238" r="5"/>
+      <circle cx="43" cy="292" r="5"/>
+    </g>
+
+    <g fill="#e6edf3" font-size="17">
+      <text x="65" y="136">Attention to detail</text>
+      <text x="65" y="190">Understanding complex systems</text>
+      <text x="65" y="244">Diagnosing mechanical faults</text>
+      <text x="65" y="298">Master craftsman &amp; instructor training</text>
+    </g>
+
+    <g fill="#afc9d9" font-size="17">
+      <text x="540" y="136">Implementing features with care</text>
+      <text x="540" y="190">Connecting frontend and backend</text>
+      <text x="540" y="244">Debugging step by step</text>
+      <text x="540" y="298">A foundation for sharing knowledge</text>
+    </g>
+  </g>
+</svg>
