@@ -62,15 +62,18 @@ MY WORKBENCH
 
 ## ⚙️ From workshop to workspace
 
-<img
-  src="https://raw.githubusercontent.com/DejanVujic/DejanVujic/main/craft-meets-code.svg?v=2"
-  alt="Animierte Zahnräder — Craft meets code"
-  width="100%"
-  
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/DejanVujic/DejanVujic/main/craft-meets-code.svg?v=2"
+    alt="Animierte Zahnräder — Craft meets code"
+    width="100%"
+  />
+</p>
+
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/DejanVujic/DejanVujic/main/craft-skills.svg?v=1"
-    alt="Meine Stärken: sorgfältige Umsetzung, Systemverständnis, systematische Fehlersuche und Wissensvermittlung."
+    alt="Meine Stärken aus Handwerk und Softwareentwicklung"
     width="100%"
   />
 </p>
