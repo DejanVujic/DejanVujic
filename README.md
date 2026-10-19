@@ -66,14 +66,14 @@ MY WORKBENCH
   src="https://raw.githubusercontent.com/DejanVujic/DejanVujic/main/craft-meets-code.svg?v=2"
   alt="Animierte Zahnräder — Craft meets code"
   width="100%"
-/>
-
-| What I bring | How I apply it |
-| :--- | :--- |
-| 🔎 Attention to detail | Implementing features with care |
-| 🧩 Understanding complex systems | Learning how frontend and backend connect |
-| 🔧 Diagnosing mechanical faults | Debugging step by step |
-| 🎓 Master craftsman and instructor training | A foundation for sharing knowledge |
+  
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/DejanVujic/DejanVujic/main/craft-skills.svg?v=1"
+    alt="Meine Stärken: sorgfältige Umsetzung, Systemverständnis, systematische Fehlersuche und Wissensvermittlung."
+    width="100%"
+  />
+</p>
 
 ## 🚀 Featured Project
 
