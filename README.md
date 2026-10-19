@@ -68,9 +68,6 @@ in precision engineering with my journey into web development.
 
 **Technologies:** HTML · CSS · JavaScript
 
-Created with AI assistance as a learning project.
-I'm studying the code and building on it through my own improvements.
-
 [![Live Demo](https://img.shields.io/badge/Live_Demo-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=0d1117)](https://dejanvujic.github.io/precision-lab/)
 [![Source Code](https://img.shields.io/badge/Source_Code-123b53?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DejanVujic/precision-lab)
 
@@ -87,12 +84,8 @@ eight automated machining systems, one clear overview.
 
 **Technologies:** HTML · CSS · JavaScript
 
-Created with AI assistance as a learning project.
-Demo data only — no live machine connection.
-
 [![Live Demo](https://img.shields.io/badge/Live_Demo-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=0d1117)](https://dejanvujic.github.io/tpm-board/)
 [![Source Code](https://img.shields.io/badge/Source_Code-123b53?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DejanVujic/tpm-board)
-
 
 
 ## 🚀 Currently on my workbench
