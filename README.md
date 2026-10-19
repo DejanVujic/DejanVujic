@@ -12,14 +12,6 @@
 
 </div>
 
-## 🧭 The person behind the code
-
-I'm a career changer training to become a **Fullstack Software Developer at Developer Akademie**.
-
-My journey started in **devices and precision engineering**, where I worked as an industrial mechanic and became a **certified master craftsman (Handwerksmeister)** with an **instructor aptitude certification (AdA)**.
-
-I enjoy understanding how things work, finding the cause of a problem, and bringing the pieces together. Software development gives me a new way to do that — building digital solutions with the same care I brought to physical systems.
-
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/DejanVujic/DejanVujic/main/about-me.svg?v=1"
@@ -41,6 +33,8 @@ I enjoy understanding how things work, finding the cause of a problem, and bring
 
 
 ## 🛠️ My growing toolbox
+
+Technologies I'm currently learning and using in my projects.
 
 <table align="center">
   <tr>
@@ -76,7 +70,7 @@ I enjoy understanding how things work, finding the cause of a problem, and bring
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/DejanVujic/DejanVujic/main/craft-meets-code.svg?v=2"
-    alt="Animierte Zahnräder — Craft meets code"
+    alt="Animated gears connecting craftsmanship and software development"
     width="100%"
   />
 </p>
@@ -84,12 +78,14 @@ I enjoy understanding how things work, finding the cause of a problem, and bring
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/DejanVujic/DejanVujic/main/craft-skills.svg?v=1"
-    alt="Meine Stärken aus Handwerk und Softwareentwicklung"
+    alt="Craftsmanship applied to code: attention to detail, systems thinking, debugging and sharing knowledge"
     width="100%"
   />
 </p>
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+Both projects were created with AI assistance as learning projects inspired by my industrial background.
 
 ### ⚙️ Precision Lab
 
@@ -144,7 +140,7 @@ A personal introduction on the web — and a place to follow my journey.
     srcset="https://raw.githubusercontent.com/DejanVujic/README.md/output/github-snake-dark.svg"
   />
   <img
-    alt="Meine GitHub-Beiträge als animierte Schlange"
+    alt="An animated snake moving through my GitHub contributions"
     src="https://raw.githubusercontent.com/DejanVujic/README.md/output/github-snake.svg"
     width="100%"
   />
@@ -172,3 +168,4 @@ Thanks for visiting my workbench. 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:123b53,100:22d3ee&height=100&section=footer" width="100%" alt="Decorative blue and turquoise footer" />
 
 </div>
+
