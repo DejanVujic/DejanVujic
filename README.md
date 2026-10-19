@@ -20,14 +20,25 @@ My journey started in **devices and precision engineering**, where I worked as a
 
 I enjoy understanding how things work, finding the cause of a problem, and bringing the pieces together. Software development gives me a new way to do that — building digital solutions with the same care I brought to physical systems.
 
-<pre>
-MY WORKBENCH
-│
-├── Foundation    Precision engineering &amp; craftsmanship
-├── Direction     Fullstack software development
-├── Learning      HTML · CSS · JavaScript · Python
-└── Mindset       Understand → Build → Test → Improve
-</pre>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/DejanVujic/DejanVujic/main/about-me.svg?v=1"
+    alt="Dejan Vujic — from precision engineering and master craftsmanship to fullstack development."
+    width="100%"
+  />
+</p>
+
+<details>
+<summary>More about me</summary>
+
+I'm a career changer training to become a **Fullstack Software Developer at Developer Akademie**.
+
+My journey started in **devices and precision engineering**, where I worked as an industrial mechanic and became a **certified master craftsman (Handwerksmeister)** with an **instructor aptitude certification (AdA)**.
+
+I enjoy understanding how things work, finding the cause of a problem, and bringing the pieces together. Software development gives me a new way to do that — building digital solutions with the same care I brought to physical systems.
+
+</details>
+
 
 ## 🛠️ My growing toolbox
 
