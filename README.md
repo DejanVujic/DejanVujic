@@ -7,7 +7,7 @@
 ![Fullstack developer in training](https://img.shields.io/badge/Fullstack-Developer_in_Training-22d3ee?style=for-the-badge&labelColor=0d1117)
 ![Master craftsman](https://img.shields.io/badge/Background-Master_Craftsman-38bdf8?style=for-the-badge&labelColor=0d1117)
 
-[![Digital business card](https://img.shields.io/badge/My_Digital_Business_Card-123b53?style=for-the-badge&logo=googlechrome&logoColor=22d3ee)](https://dejanvujic.developerakademie.net/Visitenkarten/Version%204/)
+[![Digital business card](https://img.shields.io/badge/My_Digital_Business_Card-123b53?style=for-the-badge&logo=googlechrome&logoColor=22d3ee)](https://dejanvujic.developerakademie.net/Visitenkarten/Version_5/)
 [![Repositories](https://img.shields.io/badge/Explore_My_Code-123b53?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/DejanVujic?tab=repositories)
 
 </div>
@@ -129,7 +129,7 @@ eight automated machining systems, one clear overview.
 
 A personal introduction on the web — and a place to follow my journey.
 
-[![Visit my business card](https://img.shields.io/badge/Open_Digital_Business_Card_%E2%86%97-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=0d1117)](https://dejanvujic.developerakademie.net/Visitenkarten/Version%204/)
+[![Visit my business card](https://img.shields.io/badge/Open_Digital_Business_Card_%E2%86%97-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=0d1117)](https://dejanvujic.developerakademie.net/Visitenkarten/Version_5/)
 
 
 ### 🐍 GitHub Activity Graph
